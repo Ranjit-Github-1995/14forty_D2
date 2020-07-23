@@ -84,7 +84,7 @@ To be used with jquery.meanmenu.js by Chris Wharton (http://www.meanthemes.com/p
 .current-menu-item > a, #header .navMenu ul li:hover::after {
 	position: absolute;
 	content: '';
-	background-image: url(../../images/menu_hover_bottom.png);
+	/*background-image: url(../../images/menu_hover_bottom.png);*/
 	background-repeat: no-repeat;
 	background-size: auto;
     height: 14px;
@@ -98,7 +98,7 @@ To be used with jquery.meanmenu.js by Chris Wharton (http://www.meanthemes.com/p
 .current-menu-item > a, #header .navMenu ul li:hover::before {
 	position: absolute;
 	content: '';
-	background-image: url(../../images/menu_hover_top.png);
+	/*background-image: url(../../images/menu_hover_top.png);*/
 	background-repeat: no-repeat;
 	background-size: auto;
     top: 0;
